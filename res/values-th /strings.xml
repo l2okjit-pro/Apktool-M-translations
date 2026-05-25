@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Apktool M</string>
+	<string name="click_once_more">กดปุ่มกลับอีกครั้งเพื่อออกจากโปรแกรม!</string>
+	<string name="click_once_more2">คลิกอีกครั้งเพื่อปิด</string>
+	<string name="all_files_saved">บันทึกไฟล์ทั้งหมดเรียบร้อยแล้ว!</string>
+	<string name="storage_error">กรุณาอนุญาตให้แอปพลิเคชันเข้าถึงพื้นที่จัดเก็บข้อมูล!</string>
+	<string name="jks">Keystore(JKS)</string>
+	<string name="pkcs12">Keystore(PKCS12)</string>
+	<string name="bks">Keystore(BKS)</string>
+	<string name="pk8">pk8+x509.pem</string>
+	<string name="beta" translatable="false">β</string>
+	<string name="dot" translatable="false">•</string>
+	<string name="rarrow" translatable="false">→</string>
+	<string name="lock_icon" translatable="false">&#xec61;</string>
+	<string name="block_icon" translatable="false">&#xec41;</string>
+    <string name="list_icon" translatable="false">&#xec6f;</string>
+    <string name="clock_icon" translatable="false">&#xec4e;</string>
+    <string name="prev_icon" translatable="false">◀</string>
+    <string name="next_icon" translatable="false">▶</string>
+	<string name="base64">Base64: %s</string>
+	<string name="heap_memory">หน่วยความจำ Heap</string>
+	<string name="heap_info">หน่วยความจำที่ใช้: %1$dMB.\nหน่วยความจำที่เหลือ: %2$dMB.\nขนาด Heap: %3$dMB.</string>
+	<string name="scoped_storage">พื้นที่จัดเก็บข้อมูลแบบจำกัด (Scoped Storage)</string>
+	<string name="restore_set_dialog">คุณต้องการคืนค่าการตั้งค่าของคุณหรือไม่? การตั้งค่าปัจจุบันจะถูกเขียนทับทั้งหมด!</string>
+	<string name="scoped_storage_title">การเปลี่ยนแปลงใน Android 11</string>
+	<string name="scoped_storage_msg">Android 11 ได้นำเสนอระบบจัดการไฟล์รูปแบบใหม่ที่เรียกว่า \"Scoped Storage\" คุณจำเป็นต้องอนุญาตสิทธิ์การเข้าถึงเป็นพิเศษ!</string>
+	<string name="rename_help">{NAME} - ชื่อไฟล์เดิม (ไม่มีนามสกุลไฟล์).\n{EXT} - นามสกุลไฟล์เดิม.\n{DATE} - วันที่ในรูปแบบ \"%1$s\".\n{TIME} - เวลาในรูปแบบ \"%2$s\".\n{0} - ตัวเลขเริ่มต้นจาก \"0\".</string>
+	<string name="license_agreement">ข้อตกลงใบอนุญาต</string>
+	<string name="license_accept">ยอมรับ</string>
+	<string name="license_refuse">ไม่ยอมรับ</string>
+	<string name="send_log">ส่ง Log ไปยังผู้พัฒนา</string>
+ 
+    <string name="patcher_select">เลือกแพตช์ (Patch)</string>
+    <string name="patcher_select_error">ไฟล์นี้ไม่ใช่ไฟล์แพตช์!</string>
+</resources>
